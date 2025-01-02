@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hoten_1234_2425_BAITHITEST_")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4322ccee7ee91c9f95270e18c4adee956e23661")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b374b0bd18925455689faf99c3ffae49c57d6317")]
 [assembly: System.Reflection.AssemblyProductAttribute("hoten_1234_2425_BAITHITEST_")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hoten_1234_2425_BAITHITEST_")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

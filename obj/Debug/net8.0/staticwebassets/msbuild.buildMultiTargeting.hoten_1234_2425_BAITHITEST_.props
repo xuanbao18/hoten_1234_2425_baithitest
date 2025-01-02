@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hoten_1234_2425_BAITHITEST_.props" />
+</Project>
